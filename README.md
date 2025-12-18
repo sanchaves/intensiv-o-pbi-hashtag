@@ -28,7 +28,7 @@ Este painel apresenta os principais indicadores de desempenho da produção ao l
 - Qualidade: 99,32%
 - Filtros interativos por operador e mês, permitindo segmentações dinâmicas.
 Ideal para monitorar produtividade, identificar gargalos e acompanhar a qualidade dos processos ao longo do tempo.
-<img width="755" height="415" alt="image" src="https://github.com/user-attachments/assets/2ce05754-a643-4b33-a83f-39455f5e7617" />
+<img width="756" height="425" alt="image" src="https://github.com/user-attachments/assets/66c57aca-42fc-480e-8351-34c93888890b" />
 <br><br><br>
 
 
@@ -44,6 +44,7 @@ Este painel apresenta uma análise completa da estrutura de colaboradores da emp
 - Segmentação por área e cargo, detalhando a quantidade de funcionários em setores como Administrativo, Comercial, Operações e Logística.
 - Filtros interativos por área e cargo, permitindo análises específicas.
 Ideal para monitorar a evolução da equipe, entender a composição organizacional e apoiar decisões estratégicas de RH.
+<img width="755" height="415" alt="image" src="https://github.com/user-attachments/assets/2ce05754-a643-4b33-a83f-39455f5e7617" />
 
-<img width="756" height="425" alt="image" src="https://github.com/user-attachments/assets/66c57aca-42fc-480e-8351-34c93888890b" />
+
 
