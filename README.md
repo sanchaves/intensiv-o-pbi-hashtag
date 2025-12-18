@@ -2,20 +2,20 @@
 
 Este repositório reúne os materiais desenvolvidos ao longo do meu Intensivão de Power BI, incluindo dashboards, análises, modelagem de dados e práticas de visualização.
 O objetivo é documentar minha evolução, organizar meus projetos e criar um portfólio claro e acessível para recrutadores e colegas da área de dados.
+<br><br><br>
 
-
-📈 Dashboard de Vendas por Período e Produto
+📈 Dashboard de Vendas por Período e Produto. <br>
 Este painel apresenta uma análise detalhada do desempenho de vendas ao longo do tempo. Os principais destaques incluem:
 - Evolução mensal de faturamento e quantidade vendida entre 2017 e 2019, com visualização combinada de barras e linha.
 - Indicadores principais: faturamento total de R$ 64,17 milhões e produto mais vendido: DVD M360 Preto.
 - Receita por marca, evidenciando o desempenho de empresas como Contoso, Litware e Proseware.
 - Aviso sobre visual de mapa desabilitado, com instruções para ativação.
-Ideal para acompanhar tendências, identificar marcas de maior impacto e entender sazonalidade nas vendas.
+Ideal para acompanhar tendências, identificar marcas de maior impacto e entender sazonalidade nas vendas. <br>
 <img width="755" height="419" alt="image" src="https://github.com/user-attachments/assets/a8cef909-a34f-4f64-8be1-704381d84c6d" />
 
+<br><br><br>
 
-
-🏭 Dashboard de Produção — Indicadores Operacionais
+🏭 Dashboard de Produção — Indicadores Operacionais. <br>
 Este painel apresenta os principais indicadores de desempenho da produção ao longo do ano. Os destaques incluem:
 - Indicadores gerais:
 - Total aprovado: 3.084.251
@@ -29,10 +29,10 @@ Este painel apresenta os principais indicadores de desempenho da produção ao l
 - Filtros interativos por operador e mês, permitindo segmentações dinâmicas.
 Ideal para monitorar produtividade, identificar gargalos e acompanhar a qualidade dos processos ao longo do tempo.
 <img width="755" height="415" alt="image" src="https://github.com/user-attachments/assets/2ce05754-a643-4b33-a83f-39455f5e7617" />
+<br><br><br>
 
 
-
-👥 Dashboard de Recursos Humanos — Visão Geral da Equipe
+👥 Dashboard de Recursos Humanos — Visão Geral da Equipe. <br>
 Este painel apresenta uma análise completa da estrutura de colaboradores da empresa, com foco em contratações, distribuição e rotatividade. Os principais elementos incluem:
 - Indicadores principais:
 - Contratações: 234
