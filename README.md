@@ -46,5 +46,17 @@ Este painel apresenta uma análise completa da estrutura de colaboradores da emp
 Ideal para monitorar a evolução da equipe, entender a composição organizacional e apoiar decisões estratégicas de RH.
 <img width="755" height="415" alt="image" src="https://github.com/user-attachments/assets/2ce05754-a643-4b33-a83f-39455f5e7617" />
 
+<br><br><br>
+
+🔷 Dashboard Financeiro — Recebimentos, Custos e Lucro
+Este painel apresenta uma análise consolidada da performance financeira de diferentes localidades, com foco em indicadores como recebimentos, custos, impostos e lucro. O objetivo é oferecer uma visão clara da margem operacional e das movimentações financeiras, facilitando a tomada de decisão estratégica.
+📊 Principais destaques:
+- Indicadores principais: R$ 12,39 milhões em recebimentos, R$ 9,61 milhões de lucro e margem de 77,54%.
+- Comparativo entre cidades: Rio de Janeiro, Vitória e São Paulo, com destaque percentual de desempenho.
+- Distribuição de movimentações por tipo (ex.: Pix) e volume.
+- Gráfico de barras com variações financeiras por período.
+- Integração visual com instituições bancárias (Nubank, Safra, Santander, Bradesco, Itaú).
+Ideal para acompanhar a saúde financeira do negócio, identificar oportunidades de redução de custos e entender o impacto tributário sobre o lucro.
+<img width="748" height="420" alt="image" src="https://github.com/user-attachments/assets/01246b19-5684-469d-a269-44584620ae22" />
 
 
